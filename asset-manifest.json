@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sylph_movie_app_2020/static/css/main.87703728.chunk.css",
+    "main.js": "/sylph_movie_app_2020/static/js/main.d2e30fb1.chunk.js",
+    "main.js.map": "/sylph_movie_app_2020/static/js/main.d2e30fb1.chunk.js.map",
+    "runtime-main.js": "/sylph_movie_app_2020/static/js/runtime-main.27a83d8c.js",
+    "runtime-main.js.map": "/sylph_movie_app_2020/static/js/runtime-main.27a83d8c.js.map",
+    "static/js/2.28efb256.chunk.js": "/sylph_movie_app_2020/static/js/2.28efb256.chunk.js",
+    "static/js/2.28efb256.chunk.js.map": "/sylph_movie_app_2020/static/js/2.28efb256.chunk.js.map",
+    "index.html": "/sylph_movie_app_2020/index.html",
+    "precache-manifest.29524b5119b1ce1b683a915851fc6037.js": "/sylph_movie_app_2020/precache-manifest.29524b5119b1ce1b683a915851fc6037.js",
+    "service-worker.js": "/sylph_movie_app_2020/service-worker.js",
+    "static/css/main.87703728.chunk.css.map": "/sylph_movie_app_2020/static/css/main.87703728.chunk.css.map",
+    "static/js/2.28efb256.chunk.js.LICENSE.txt": "/sylph_movie_app_2020/static/js/2.28efb256.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27a83d8c.js",
+    "static/js/2.28efb256.chunk.js",
+    "static/css/main.87703728.chunk.css",
+    "static/js/main.d2e30fb1.chunk.js"
+  ]
+}
